@@ -620,8 +620,8 @@ width: 175px;
    display: flex;
    align-items: flex-end;
    gap: 30px;
-   width: 200;
-   height: 300;
+   /* width: 200px; */
+   /* height: 300px; */
 }
 
 .easy-connect
@@ -801,8 +801,8 @@ background-position: center;
 }
 
 .footer-logo img {
-  height: 50;
-  width: 50;
+  height: 63px;
+  width: 160px;
 }
 
 .footer-kolonne1{
