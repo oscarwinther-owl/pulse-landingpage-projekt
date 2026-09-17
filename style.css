@@ -791,4 +791,22 @@ body
 background-color: #211F1F;
 }
 
+ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    gap: 7%;
+    list-style: none;
+}
 
+
+header {
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    background: #727170;
+    top: 0px;
+}
